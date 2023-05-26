@@ -3,7 +3,7 @@ title: 'Innature - A Tech Company in Commercial Kitchen Industry'
 meta_title: 'Innature'
 description: "Serif is a modern business theme for Hugo."
 intro_image: "images/illustrations/web-development.svg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
